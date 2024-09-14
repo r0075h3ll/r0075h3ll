@@ -2,7 +2,7 @@
 <h3 align="center">A Security Engineer who loves automating boring stuff.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔮 I’m currently working on [a C2 Framework](/C2)
+- 🔮 I’m currently working on [a C2 Framework](../C2)
 
 - 👨‍💻 I’m currently learning **Sanic**, **PostgreSQL** and **API Design**
 
