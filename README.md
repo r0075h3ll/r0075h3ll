@@ -1,28 +1,13 @@
-<h1 align="center">Hi, I'm Hardik Nanda</h1>
-<h3 align="center">A Security Engineer who loves automating boring stuff.</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+Hi!
 
-- 🔮 I’m currently working on <a href="https://github.com/r0075h3ll/C2">a C2 Framework</a>
-
-- 👨‍💻 I’m currently learning **Sanic**, **PostgreSQL** and **API Design**
-
-- 🗺️ I'd like to explore **Supply Chain Security** and **Threat Hunting**
-
-- 🗣️ Ask me about **DevSecOps / Security Automation**
-
-- 📟 How to reach me **hnanda21@gmail.com**
+### About Me:
+I'm a Security Engineer who is proficient in automation & building stuff for bolstering security posture.
 
 ### Skills:
-- AWS (Lambda, EventBridge, and CloudWatch)
-- Gitlab CI
-- Docker
-- Git
-- Linux
-- Python
-- Bash
-- C
+- Infra: AWS (Lambda, CodeBuild, EventBridge, and CloudWatch)
+- CI/CD: Github Actions, Gitlab CI, and Docker 
+- Automation: Python, Linux (Bash), and Golang
 
+### Connect with Me:
 
-### Connect with me:
-
-[Twitter](https://twitter.com/r0075h3ll) / [LinkedIn](https://linkedin.com/in/r0075h3ll) / [Discord](https://discord.gg/r0075h3ll)
+[Email](hnanda21@gmail.com) / [Twitter](https://twitter.com/r0075h3ll) / [LinkedIn](https://linkedin.com/in/r0075h3ll) / [Discord](https://discord.gg/r0075h3ll)
