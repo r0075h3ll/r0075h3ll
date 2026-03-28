@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Hardik Nanda</h1>
+<h3>👋 Hi, I'm Hardik Nanda</h3>
 
 **Product Security Engineer**  
 AppSec • Cloud Security • AI/LLM Security
