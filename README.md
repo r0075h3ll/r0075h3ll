@@ -3,7 +3,6 @@
 **Product Security Engineer**  
 AppSec • Cloud Security • AI/LLM Security
 
----
 
 ## 👤 About Me
 
@@ -14,7 +13,6 @@ I am a Product Security Engineer focused on securing modern applications and clo
 - LLM security, prompt injection, and RAG defenses
 - Security automation and developer-first security practices
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +22,6 @@ I am a Product Security Engineer focused on securing modern applications and clo
 - **Automation:** GitHub Actions, GitLab CI, Activepieces
 - **Other:** Docker, Selenium, Postman
 
----
 
 ## 🧪 Projects
 
@@ -44,13 +41,11 @@ Client-side vulnerability scanner for web applications:
 
 - Command-line utility for endianness conversion (C)
 
----
 
 ## 📜 Certification
 
 - eWPTX v3 (INE) – [Verify](https://certs.ine.com/bf186f59-189c-4301-8b83-6ec92e1303c9#acc.oEBS96C4)
 
----
 
 ## 📫 Connect
 
