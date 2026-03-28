@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Hardik Nanda
+<h1>👋 Hi, I'm Hardik Nanda</h1>
 
 **Product Security Engineer**  
 AppSec • Cloud Security • AI/LLM Security
 
 
-## 👤 About Me
+**👤 About Me**
 
 I am a Product Security Engineer focused on securing modern applications and cloud-native systems. My work spans application security, cloud infrastructure, and emerging AI/LLM threat models.
 
@@ -14,7 +14,7 @@ I am a Product Security Engineer focused on securing modern applications and clo
 - Security automation and developer-first security practices
 
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 - **Languages:** Python, Go, Java, JavaScript, Bash
 - **Cloud & DevOps:** AWS (Lambda, EventBridge, CodeBuild, CloudWatch)
@@ -23,9 +23,9 @@ I am a Product Security Engineer focused on securing modern applications and clo
 - **Other:** Docker, Selenium, Postman
 
 
-## 🧪 Projects
+**🧪 Projects**
 
-### Oralyzer
+**Oralyzer**
 
 Client-side vulnerability scanner for web applications:
 
@@ -33,21 +33,21 @@ Client-side vulnerability scanner for web applications:
 - Integrates with recon workflows (reconftw)
 - Designed for automated security testing use cases
 
-### FireEye (AWS Monitoring Toolkit)
+**FireEye (AWS Monitoring Toolkit)**
 
 - Security-focused AWS monitoring and resource tracking toolkit
 
-### Endomorph
+**Endomorph**
 
 - Command-line utility for endianness conversion (C)
 
 
-## 📜 Certification
+**📜 Certification**
 
 - eWPTX v3 (INE) – [Verify](https://certs.ine.com/bf186f59-189c-4301-8b83-6ec92e1303c9#acc.oEBS96C4)
 
 
-## 📫 Connect
+**📫 Connect**
 
 - Portfolio: https://r0075h3ll.github.io
 - LinkedIn: https://linkedin.com/in/r0075h3ll
