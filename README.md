@@ -41,6 +41,9 @@ Client-side vulnerability scanner for web applications:
 
 - Command-line utility for endianness conversion (C)
 
+**ChainWatch**
+
+- Supply Chain Security Scanner for NPM & PyPI
 
 **📜 Certification**
 
