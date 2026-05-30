@@ -43,7 +43,7 @@ Client-side vulnerability scanner for web applications:
 
 **ChainWatch**
 
-- Supply Chain Security Scanner for NPM & PyPI
+- Supply Chain Security CLI for Breach Impact Investigation
 
 **📜 Certification**
 
