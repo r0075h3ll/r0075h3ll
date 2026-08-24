@@ -25,33 +25,44 @@ I am a Product Security Engineer focused on securing modern applications and clo
 
 **🧪 Projects**
 
-**Oralyzer**
+*Newest first.*
 
-Client-side vulnerability scanner for web applications:
-
-- Detects DOM XSS, Open Redirect, and CRLF issues
-- Integrates with recon workflows (reconftw)
-- Designed for automated security testing use cases
-
-**FireEye (AWS Monitoring Toolkit)**
-
-- Security-focused AWS monitoring and resource tracking toolkit
-
-**Hermes Leash**
+**[Hermes Leash](https://github.com/r0075h3ll/hermes-leash)**
 
 Budget guardrails for a self-hosted Telegram bot on AWS EC2:
 
 - Idle auto-shutdown, nightly Lambda shutdown, billing alarms, and hard budget stop
 - CloudFormation deployable; zero open ports, everything over SSM
-- [github.com/r0075h3ll/hermes-leash](https://github.com/r0075h3ll/hermes-leash)
 
-**Endomorph**
+**[ChainWatch](https://github.com/r0075h3ll/chainwatch)**
 
-- Command-line utility for endianness conversion (C)
+Supply chain security CLI for breach impact investigation:
 
-**ChainWatch**
+- Scans every repository in a GitHub org for compromised, malicious, or vulnerable package versions
+- Uses the GitHub Dependency Graph SBOM API with ecosystem-aware matching
+- Optional JSON and HTML reports
 
-- Supply Chain Security CLI for Breach Impact Investigation
+**[FireEye](https://github.com/r0075h3ll/FireEye)**
+
+Security-focused AWS monitoring and resource tracking toolkit:
+
+- Tracks resources and surfaces security-relevant changes across an AWS account
+- Python 3.12, Apache 2.0 licensed
+
+**[Endomorph](https://github.com/r0075h3ll/Endomorph)**
+
+Command-line utility written in C that sorts byte streams between little-endian and big-endian:
+
+- Single-purpose tool, builds with make on Linux
+
+**[Oralyzer](https://github.com/r0075h3ll/oralyzer)**
+
+Open redirection vulnerability analyzer:
+
+- Fuzzes supplied URLs to probe for open redirect issues
+- Detects header-based, JavaScript-based, and meta tag based redirects
+
+---
 
 **📜 Certification**
 
