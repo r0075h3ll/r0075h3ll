@@ -37,6 +37,14 @@ Client-side vulnerability scanner for web applications:
 
 - Security-focused AWS monitoring and resource tracking toolkit
 
+**Hermes Leash**
+
+Budget guardrails for a self-hosted Telegram bot on AWS EC2:
+
+- Idle auto-shutdown, nightly Lambda shutdown, billing alarms, and hard budget stop
+- CloudFormation deployable; zero open ports, everything over SSM
+- [github.com/r0075h3ll/hermes-leash](https://github.com/r0075h3ll/hermes-leash)
+
 **Endomorph**
 
 - Command-line utility for endianness conversion (C)
