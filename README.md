@@ -1,7 +1,6 @@
 # Hi, I'm Hardik Nanda
 
-**Product Security Engineer**
-AppSec • Cloud Security • AI/LLM Security
+**Product Security Engineer** (AppSec • Cloud Security • AI/LLM Security)
 
 ## About Me
 
